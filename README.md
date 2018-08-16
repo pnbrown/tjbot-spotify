@@ -54,7 +54,9 @@ In Node-RED, edit the **Set Configuration** node with the Client ID, Client Secr
 
 Keeping things in same language, I chose to use Node-RED on the Raspberry Pi running the TJBot. However, you can choose to subscribe to the IoT command in Python, Node.js, or another language and play the song that way.
 
-If you haven't installed the TJBot Node-RED nodes on the TJBot, please refer to this [blog post for instructions](http://ibm.biz/train-tjbot-series) on how to do so. Import the [JSON flow](assets/tjbotflow.json). Here's what the Node-RED flow looks like.
+If you haven't installed the TJBot Node-RED nodes on the TJBot, please refer to this [blog post for instructions](http://ibm.biz/train-tjbot-series) on how to do so. Be sure to also check that mpg3 is installed on your Raspberry Pi. This can be done by opening the terminal and typing ```sudo apt-get install mpg123``` and following the subsequent instructions.
+
+Import the [JSON flow](assets/tjbotflow.json). Here's what the Node-RED flow looks like.
 
 ![](assets/tjbotflow.png)
 
