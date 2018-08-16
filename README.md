@@ -24,7 +24,7 @@ Once your app is created, you should see something like the one below.
 
 ![](assets/start.png)
 
-Click 'Start' and wait for the green 'Running' indicator to appear. Then click the 'Visit App URL' link to get to the Node-Red editor.
+Click 'Start' and wait for the green 'Running' indicator to appear. Then click the 'Visit App URL' link to get to the Node-RED editor.
 
 ![](assets/running.png)
 
