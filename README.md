@@ -16,6 +16,18 @@ Create an **Internet of Things Platform Starter** application available in the I
 
 ![](assets/iottile.png)
 
+After installing, you'll see a window like the one below. Assign a unique name and create the service.
+
+![](assets/create.png)
+
+Once your app is created, you should see something like the one below. 
+
+![](assets/start.png)
+
+Click 'Start' and wait for the green 'Running' indicator to appear. Then click the 'Visit App URL' link to get to the Node-Red editor.
+
+![](assets/running.png)
+
 The front-end interface is created using the Node-RED dashboard nodes. Install the nodes by clicking the menu in the top right -> **Manage Palette** -> **Install** and search for *node-red-dashboard*. Click **install**.
 
 ![](assets/installdashboardnodes.png)
